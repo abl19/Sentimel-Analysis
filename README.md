@@ -40,15 +40,15 @@ Using Spyder, I installed the spacy library using the command line:
 Either one will work 
 Then, I import the library into my (.py) file. 
 1)	Obtain data 
-a.	I have implemented a function that will return the three files. These files will be converted into an NLP file that allows me to implement the different attributes for tokenization. 
-2)	Tokenization
-a.	I implement different token attributes to obtain some of the information needed from the dataset and clean the data 
+I have implemented a function that will return the three files. These files will be converted into an NLP file that allows me to implement the different 
+attributes for tokenization. 
+2)	Tokenization : I implement different token attributes to obtain some of the information needed from the dataset and clean the data 
           i.	.text
           ii.	Lemma_
           iii.	Post_
           iv.	Is_stop
           v.	Is_punct 
-3)	Classification 
+3)	Classification - Vectorization 
  				Still in Process  
 
 
