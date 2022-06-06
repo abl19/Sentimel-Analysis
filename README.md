@@ -4,21 +4,21 @@ My project idea is the text Analysis.
 Sentiment Analysis is the process of determining whether a piece of writing is positive, negative, or neutral.
 According to my research, there are certain steps that I need to go through in this project.
 
-- Collection of the data: analysis of the information that has been collected. 
--Tokenization: divide the data into chunks or slides 
--Cleaning the data: remove any type of special characters or punctuation.
--Remove stop words:  In this step, I will remove any words that don’t add any value to the message. That includes articles or verbs that don’t add meaning to the
+      -Collection of the data: analysis of the information that has been collected. 
+      -Tokenization: divide the data into chunks or slides 
+      -Cleaning the data: remove any type of special characters or punctuation.
+      -Remove stop words:  In this step, I will remove any words that don’t add any value to the message. That includes articles or verbs that don’t add meaning to the
 feedback.
--Vectorization process: at this point, all the data used is known by the user. Machines cannot understand words and characters. 
+      -Vectorization process: at this point, all the data used is known by the user. Machines cannot understand words and characters. 
 In this step, I will convert the text into numbers to be understood by the machine. 
--Classification: Determine positive or negative based on a list that checks words and adds punctuation to determine whether the message is positive or negative.
+      -Classification: Determine positive or negative based on a list that checks words and adds punctuation to determine whether the message is positive or negative.
 
 The data suggested in this project are the dialogues of StarWars scripts. 
 I will determine the following:
--	The most active 
--	The most talkative 
--	Frequent words 
--	Positive or negative words in each episode 
+      -	The most active 
+      -	The most talkative 
+      -	Frequent words 
+      -	Positive or negative words in each episode 
 
 
 *In this project, I am trying to follow the  https://spacy.io/usage/linguistic-features site
