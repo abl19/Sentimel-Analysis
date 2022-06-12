@@ -84,11 +84,10 @@ def graph_common_words(lista,episode):
     plt.xticks(rotation=70)
     plt.figure(figsize=(15, 8))
     plt.show()
-# Files 
-# Words Use the most per episode 
+# Reading Data 
 file_1,file_2,file_3=reading_files()
+# Words Use the most per episode 
 newlist={}
-
 lista=frequenc_words(file_1,newlist)
 graph_common_words(lista,"Episode 1")
 lista=frequenc_words(file_2,newlist)
