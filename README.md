@@ -24,8 +24,18 @@ I will determine the following:
 *In this project, I am trying to follow the  https://spacy.io/usage/linguistic-features site
 and this course on YouTube that introduce me to spacy https://www.youtube.com/watch?v=dIUTsFT2MeQ 
 
+The most talkative  And Frequent words  Outputs : 
+
+![Figure 2022-06-11 220745 (1)](https://user-images.githubusercontent.com/106505515/173211289-1c043fc6-2b11-4dd4-8f75-edacb8607643.png)
+![Figure 2022-06-11 220745 (2)](https://user-images.githubusercontent.com/106505515/173211290-4cf203a2-15cc-451f-8a79-26ca3ad54ce6.png)
+![Figure 2022-06-11 220745 (3)](https://user-images.githubusercontent.com/106505515/173211291-40b68ef7-732b-4a6b-aa5f-681caed4acc1.png)
+![Figure 2022-06-11 220745 (4)](https://user-images.githubusercontent.com/106505515/173211292-7e658a35-5982-4ba6-8523-721ec93afbb6.png)
+![Figure 2022-06-11 220745 (5)](https://user-images.githubusercontent.com/106505515/173211293-737a0b1d-ee63-40ca-bb16-4602b225d837.png)
+![Figure 2022-06-11 220745 (0)](https://user-images.githubusercontent.com/106505515/173211294-1e2c4888-c283-4149-8c20-c502bf6d200a.png)
 
 FT1:
+
+
 During this time, I accomplished the following:
 
 -	Understand the NLP process using the Spacy library 
@@ -49,7 +59,8 @@ attributes for tokenization.
           iv.	Is_stop
           v.	Is_punct 
 3)	Classification - Vectorization 
- 				Still in Process  
+                        
+ 
 
 
 
