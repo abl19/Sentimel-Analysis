@@ -15,7 +15,6 @@ In this step, I will convert the text into numbers to be understood by the machi
 
 The data suggested in this project are the dialogues of StarWars scripts. 
 I will determine the following:
-      -	The most active 
       -	The most talkative 
       -	Frequent words 
       -	Positive or negative words in each episode 
