@@ -53,15 +53,20 @@ FP2:
 -I am working on improving the common words from each one of the files. 
 -I start to develop the training set for the sentiment analysis. 
 
-                                    Character who speak the most per Episode 
-![Figure 2022-06-16 232433 (0)](https://user-images.githubusercontent.com/106505515/174218725-85ab6f5d-b1cf-42f0-9dcd-47b4cdd3534b.png)
-![Figure 2022-06-16 232433 (1)](https://user-images.githubusercontent.com/106505515/174218726-b257f8cd-d4ad-41d3-bf53-0c8f5b563098.png)
-![Figure 2022-06-16 232433 (2)](https://user-images.githubusercontent.com/106505515/174218727-d288a301-0420-4a30-af74-4907b4a69240.png)
-                                         Common Words per Episode 
+                                           Character who speak the most per Episode 
+                                         
 ![Figure 2022-06-16 232433 (3)](https://user-images.githubusercontent.com/106505515/174218728-35d3ff4d-3824-4560-8fb9-2730a28300f7.png)
 ![Figure 2022-06-16 232433 (4)](https://user-images.githubusercontent.com/106505515/174218729-0f92d063-d50f-45b4-b362-6b7ed0ba1bc6.png)
 ![Figure 2022-06-16 232433 (5)](https://user-images.githubusercontent.com/106505515/174218731-8d81babd-0269-4681-a060-40c3e7042a41.png)
 
+
+                                                Common Words per Episode
+                                    
+![Figure 2022-06-16 232433 (0)](https://user-images.githubusercontent.com/106505515/174218725-85ab6f5d-b1cf-42f0-9dcd-47b4cdd3534b.png)
+![Figure 2022-06-16 232433 (1)](https://user-images.githubusercontent.com/106505515/174218726-b257f8cd-d4ad-41d3-bf53-0c8f5b563098.png)
+![Figure 2022-06-16 232433 (2)](https://user-images.githubusercontent.com/106505515/174218727-d288a301-0420-4a30-af74-4907b4a69240.png)
+
+                                 
 
 
 
