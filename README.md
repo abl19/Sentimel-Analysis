@@ -65,6 +65,11 @@ FP2:
 ![Figure 2022-06-16 232842 (1)](https://user-images.githubusercontent.com/106505515/174219265-bc05e2a8-cdb7-4925-879d-8d4030a687bc.png)
 ![Figure 2022-06-16 232842 (2)](https://user-images.githubusercontent.com/106505515/174219266-18770142-f458-4283-a209-7946b945249b.png)
                                  
-
+                                                    Sentiment Per Episode 
+                                                   
+![Figure 2022-06-17 011611 (1)](https://user-images.githubusercontent.com/106505515/174230019-ae63d0d1-8b82-474e-a9b2-369dc3ec31c4.png)
+![Figure 2022-06-17 011611 (2)](https://user-images.githubusercontent.com/106505515/174230020-35230c98-1200-4c9e-988a-74057a147ce5.png)
+![Figure 2022-06-17 011611 (0)](https://user-images.githubusercontent.com/106505515/174230021-c96eb3fc-a3e4-41ee-860e-9a8e94d31f52.png)
+                                      
 
 
