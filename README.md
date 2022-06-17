@@ -54,18 +54,16 @@ FP2:
 -I start to develop the training set for the sentiment analysis. 
 
                                            Character who speak the most per Episode 
-                                         
-![Figure 2022-06-16 232433 (3)](https://user-images.githubusercontent.com/106505515/174218728-35d3ff4d-3824-4560-8fb9-2730a28300f7.png)
-![Figure 2022-06-16 232433 (4)](https://user-images.githubusercontent.com/106505515/174218729-0f92d063-d50f-45b4-b362-6b7ed0ba1bc6.png)
-![Figure 2022-06-16 232433 (5)](https://user-images.githubusercontent.com/106505515/174218731-8d81babd-0269-4681-a060-40c3e7042a41.png)
-
+                                     
+![Figure 2022-06-16 232842 (3)](https://user-images.githubusercontent.com/106505515/174219267-6cabdb60-2d8e-46aa-9049-5cce1a7622c7.png)
+![Figure 2022-06-16 232842 (4)](https://user-images.githubusercontent.com/106505515/174219269-ff74f473-676b-4ef3-90f5-0b874d582b9f.png)
+![Figure 2022-06-16 232842 (5)](https://user-images.githubusercontent.com/106505515/174219270-8cabbb5e-0976-4535-a65d-3ba13c6a4d1d.png)
 
                                                 Common Words per Episode
                                     
-![Figure 2022-06-16 232433 (0)](https://user-images.githubusercontent.com/106505515/174218725-85ab6f5d-b1cf-42f0-9dcd-47b4cdd3534b.png)
-![Figure 2022-06-16 232433 (1)](https://user-images.githubusercontent.com/106505515/174218726-b257f8cd-d4ad-41d3-bf53-0c8f5b563098.png)
-![Figure 2022-06-16 232433 (2)](https://user-images.githubusercontent.com/106505515/174218727-d288a301-0420-4a30-af74-4907b4a69240.png)
-
+![Figure 2022-06-16 232842 (0)](https://user-images.githubusercontent.com/106505515/174219264-b0a99886-d7ae-4b6a-aadc-4b6d94524e05.png)
+![Figure 2022-06-16 232842 (1)](https://user-images.githubusercontent.com/106505515/174219265-bc05e2a8-cdb7-4925-879d-8d4030a687bc.png)
+![Figure 2022-06-16 232842 (2)](https://user-images.githubusercontent.com/106505515/174219266-18770142-f458-4283-a209-7946b945249b.png)
                                  
 
 
