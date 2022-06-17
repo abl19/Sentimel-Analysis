@@ -137,34 +137,34 @@ file_1,file_2,file_3=reading_files()
 # Words Use the most per episode 
 newlist={}
 lista_1=frequenc_words(file_1,newlist)
-graph_common_words(lista_1,"Episode 1")
+#graph_common_words(lista_1,"Episode 1")
 # Sentiment 
 sentiment_1=train_classifier(lista_1)
 graph_sentiments(sentiment_1,"Episode 1")
 
 
 lista_2=frequenc_words(file_2,newlist)
-graph_common_words(lista_2,"Episode 2")
+#graph_common_words(lista_2,"Episode 2")
 # Sentiment
-#sentiment_2=train_classifier(lista_2)
-#graph_sentiments(sentiment_2,"Episode 2")
+sentiment_2=train_classifier(lista_2)
+graph_sentiments(sentiment_2,"Episode 2")
 
 
 lista_3=frequenc_words(file_3,newlist)
-graph_common_words(lista_3,"Episode 3")
+#graph_common_words(lista_3,"Episode 3")
 # Sentiment
-#sentiment_3=train_classifier(lista_3)
-#graph_sentiments(sentiment_3,"Episode 3")
+sentiment_3=train_classifier(lista_3)
+graph_sentiments(sentiment_3,"Episode 3")
 
 
 
 # Actor who speak the most per episode
 most_talking_persons(file_1)
-graph_file(file_1,"Episode 1")
+#graph_file(file_1,"Episode 1")
 most_talking_persons(file_2)
-graph_file(file_2,"Episode 2")
+#graph_file(file_2,"Episode 2")
 most_talking_persons(file_3)
-graph_file(file_3,"Episode 3")
+#graph_file(file_3,"Episode 3")
 
 
 
