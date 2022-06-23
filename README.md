@@ -27,6 +27,7 @@ I determine the following from the datasets:
       -	Frequent words 
       -	Positive or negative words in each episode 
 
+I used the emotion.txt data set to classify the words. 
 
 
                                            Character who speak the most per Episode 
